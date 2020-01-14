@@ -1,1 +1,2 @@
-Новый проект
+Pika
+New project
